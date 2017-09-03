@@ -11,10 +11,10 @@ public class City {
 
     private String name;
     private String state;
-    private int population;
+    private Integer population;
     private double area;
 
-    public City(String name, String state, int population, double area) {
+    public City(String name, String state, Integer population, double area) {
         this.name = name;
         this.state = state;
         this.population = population;
@@ -53,7 +53,7 @@ public class City {
         return state;
     }
 
-    public int getPopulation() {
+    public Integer getPopulation() {
         return population;
     }
 
