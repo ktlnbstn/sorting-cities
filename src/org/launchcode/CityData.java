@@ -9,7 +9,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by LaunchCode
+ * Idea created by LaunchCode
+ * Idea coded by Kate Boston
  */
 public class CityData {
 
