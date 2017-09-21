@@ -5,7 +5,8 @@ import java.util.Formatter;
 import java.util.Locale;
 
 /**
- * Created by LaunchCode
+ * Idea created by LaunchCode
+ * Idea coded by Kate Boston
  */
 public class City {
 
